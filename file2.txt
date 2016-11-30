@@ -1,1 +1,3 @@
 some new text
+Previous was the initial text
+Some not staged changes
