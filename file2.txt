@@ -4,3 +4,4 @@ Some not staged changes
 new not staged changes
 other not staged
 again other not staged
+hai azi
