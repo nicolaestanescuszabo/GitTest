@@ -6,3 +6,4 @@ fifth modification
 sixth modif
 seventh modif
 eighth modif
+staged change to be undone
