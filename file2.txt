@@ -1,9 +1,0 @@
-some new text
-Previous was the initial text
-Some not staged changes
-new not staged changes
-other not staged
-again other not staged
-hai azi
-ba maine
-
