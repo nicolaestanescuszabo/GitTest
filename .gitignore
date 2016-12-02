@@ -1,4 +1,5 @@
 *_ign.txt
 SecondFolder/
+! SecondFolder/*.txt
 SecondFolder/ForthFolder/
 *ore.txt
